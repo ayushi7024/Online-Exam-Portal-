@@ -1,0 +1,8 @@
+{
+  "mongodb": {
+      "connectionString": "mongodb+srv://ayushishukla7024:QWA0wLbFRKqX0f58@cluster0.yccjx1r.mongodb.net/abcd?retryWrites=true&w=majority"
+  },
+  "jwt": {
+      "secret" : "Examination Portal Application test"
+  }
+}
